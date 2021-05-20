@@ -1,4 +1,4 @@
-# yes-chef
+# yes-chef 🥟
 
 **App idea**
 
