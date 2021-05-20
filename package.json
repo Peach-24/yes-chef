@@ -1,0 +1,25 @@
+{
+  "name": "yes-chef",
+  "version": "1.0.0",
+  "description": "**App idea**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peach-24/yes-chef.git"
+  },
+  "keywords": [],
+  "author": "Peach-24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peach-24/yes-chef/issues"
+  },
+  "homepage": "https://github.com/Peach-24/yes-chef#readme",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
