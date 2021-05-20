@@ -1,4 +1,3 @@
-const puppeteer = require('puppeteer');
 const request = require('request');
 const cheerio = require('cheerio');
 const url = 'https://www.bbcgoodfood.com/recipes/oven-baked-risotto';
